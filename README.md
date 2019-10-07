@@ -37,4 +37,5 @@ Para simulação de algoritmos quânticos será utilizado o [qiskit](https://qis
 
 - Grant, E., Benedetti, M., Cao, S., Hallam, A., Lockhart, J., Stojevic, V., ... & Severini, S. (2018). Hierarchical quantum classifiers. [npj Quantum Information, 4(1), 65](https://www.nature.com/articles/s41534-018-0116-9).
 - A definir
+- [tutorial] Qiskit
 - [opcional] Multilayer perceptron
